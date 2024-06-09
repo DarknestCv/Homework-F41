@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    font-family: Kersey;
+}
+
+@font-face {
+    font-family: Kersey;
+    src: url('/fonts/Library_soft.otf');
+}
+@font-face {
+    font-family: Kony;
+    src: url(/fonts/font.otf);
+}
+p.b{
+font-family: Kony;
+font-style: italic;
+text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: Ciniy;
+    color: blue;
+}
+@font-face {
+    font-family: Ciniy;
+    src: url(/fonts/Library.otf);
+}
+h3{
+    color: rgb(161, 91, 228);
+    text-align: center;
+}
+@font-face {
+    font-family: classr;
+    src: url(/fonts/Perfograma.otf);
+}
+p.r{
+    font-family: classr;
+    text-decoration: underline;
+    padding-left: 50px;
+}
+p.a{
+    font-weight: bold;
+    text-align: right;
+}
+p.y{
+text-indent: 35px;
+}
+p.n{
+color: brown;
+font-weight: bold;
+font-style: italic;
+border-width: 3px;
+border-color: brown;
+border-style: solid;
+padding: 5px;
+display: inline-block;
+}

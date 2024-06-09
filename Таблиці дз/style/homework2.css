@@ -1,0 +1,15 @@
+h1{
+  font-size: 43px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: bisque;
+}
+ul{
+    color: rgb(0, 175, 0);
+    font-size: 23px;
+}

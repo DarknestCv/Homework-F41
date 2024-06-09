@@ -1,0 +1,91 @@
+.baner{
+  position: relative;
+}
+
+.circles{
+  position: absolute;
+  width: 156px;
+  height: 150px;
+  right: 100px;
+  bottom: 100px;
+}
+
+.circles-green{
+  background: #c8c10d;
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+}
+
+.circles a{
+  display: block;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background: rgba(203, 51, 98, .87);
+  color: #fff;
+  left: 12px;
+  bottom: 12px;
+  text-decoration: none;
+  position: absolute;
+}
+
+.circles a span{
+  position: relative;
+  right: -20px;
+  top: 50px;
+  font-size: 24px;
+  line-height: 24px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: Quicksand;
+  text-align: center;
+}
+.bg-main1 li{
+  display: inline-block;
+  margin: 0 100px;
+  
+}
+.bg-main1{
+  background: #c8c10d;
+  padding: 30px;
+}
+.bg-main1 ul{
+  text-align: center;
+}
+.bg-main1 p{
+  color: #fff;
+  font-weight: 400;
+  font-family: "Roboto";
+  margin-top: 10px;
+}
+.bg-main2 .page2{
+padding: 35px;
+}
+.bg-main2{
+  background: #eae7e8;
+  font-family: LatoR;  
+}
+.bg-main2 h4{
+  color: #7a6666;
+  padding: 10px;
+}
+.bg-main2 h1{
+  color: #cb3362;
+  padding: 10px;
+}
+.bg-main2 p{
+  color: #7a6666;
+  padding: 10px;
+}
+.bg-main2 ul{
+  float: left;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+.bg-name{
+    background: #c8c10d;
+}
+
+.bg-name h3{
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family: latoR;
+    font-weight: 400;
+}
+.pages1{
+
+    margin: 50px;
+    background: #eae7e8;
+    width: 250px;
+    height: 600px;
+    float: left;
+}
+
+.bg-about{
+    width: 100%;
+}
+.bg-about .pages1>ul{
+    text-align: center;
+}
+.bg-about .pages1>h3{
+    color: #cb3362 ;
+    font-family: latoR;
+    text-align: center;
+    padding-top: 45px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.bg-about li{
+    margin: 40px;
+    font-family: latoR;
+    font-weight: 50;
+    font-size: 13px;
+}
+.pages2{
+    font-family: latoR;
+    font-weight: 50;
+    font-size: 13px;
+    width: 960px;
+    height: 600px;
+    
+}
+.bg-about .pages2>h3{
+    color: #cb3362 ;
+    font-family: latoR;
+    padding-top: 45px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+
+.bg-about p{
+    line-height: 23px;
+    padding: 15px;
+    font-family: LatoR;
+    font-size: 12px;
+}
+

@@ -1,0 +1,120 @@
+
+.bg-blog{
+    float: left;
+}
+.bg-blog img{
+    float: left;
+    padding-right: 10px;
+    padding-top: 90px;
+}
+.bg-blog h1{
+    color:#cb3362;
+    font-family: LatoR;
+    font-weight: 400;
+}
+.bg-blog p{
+    width: 650px;
+    color: #7a6666;
+    font-family: LatoR;
+    font-weight: 400;
+}
+.small{
+    font-size: 13px;
+    padding-bottom: 20px;
+}
+.img1{
+    padding-top: 130px;
+}
+.reade a{
+    color: #cbb4bc;
+    border: solid #cbb4bc 2px;
+    padding: 10px 25px;
+    font-family: LatoB;
+    text-decoration: none;
+}
+.reade{
+    float: left;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+.lin{
+    border-bottom: 2px solid #cbb4bc;
+    padding-top: 130px;
+    width: 650px;
+    padding-bottom: 50px;
+}
+.lin2{
+    border-bottom: 2px solid #cbb4bc;
+    margin-bottom: 50px;
+    width: 650px;
+    padding-top: 150px;  
+}
+.reade2 a{
+    color: #cbb4bc;
+    border: solid #cbb4bc 2px;
+    padding: 10px 25px;
+    font-family: LatoB;
+    text-decoration: none;
+}
+.reade2{
+    margin-left: 230px;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+.bg-post h1{ text-align: center;
+    font-size: 30px;
+    font-family: RammettoOne;
+  color: #cb3362;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+.bg-post .twoh1{
+    color: #cb3362;
+    font-family: LatoR;
+    font-size: 25px;
+    font-weight: 300;
+}
+.bg-post p{
+    line-height: 30px;
+    color: #7a6666;
+    text-align: center;
+}
+.text2{
+    padding-top: 10px;
+    font-size: 15px;
+    color: #7a6666;
+    text-align: center;
+    font-family: LatoR;
+}
+.text1{
+    padding-top: 30px;
+    font-size: 18px;
+    font-family: LatoR;
+}
+.poster{
+
+width: 300px;
+height: 800px;
+position: absolute;
+background: #eae7e8;
+}
+.bg-post{
+    padding-top: 130px;
+    position: relative;
+    left: 220px;
+}
+.reade3 a{
+    color: #cbb4bc;
+    border: solid #cbb4bc 2px;
+    padding: 10px 25px;
+    font-family: LatoB;
+    text-decoration: none;
+}
+.reade3{
+    text-align: center;
+    padding-top: 130px;
+}
+
+.poster ul{
+    text-align: center;
+}
